@@ -22,4 +22,4 @@ Ferramenta com interface gráfica moderna (GUI) desenvolvida para agilizar taref
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/WescleyHenrique/Ferramenta-de-Reparo-de-Sistemas-TI.git](https://github.com/WescleyHenrique/Ferramenta-de-Reparo-de-Sistemas-TI.git)
+   git clone [https://github.com/WescleyHenrique/Ferramenta-de-Reparo-de-Sistema-TI.git](https://github.com/WescleyHenrique/Ferramenta-de-Reparo-de-Sistema-TI.git)
