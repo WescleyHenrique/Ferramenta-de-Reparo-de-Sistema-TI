@@ -3,7 +3,8 @@
 Ferramenta com interface gráfica moderna (GUI) desenvolvida para agilizar tarefas de suporte técnico de Nível 1, reunindo comandos essenciais do Windows em um único painel.
 
 ## 📸 Screenshots
-*( Ainda sem )*
+*<img width="823" height="505" alt="image" src="https://github.com/user-attachments/assets/d3b51891-7200-4a29-8e5e-f325fd0d7b5b" />
+*
 
 ## 🚀 Funcionalidades
 
