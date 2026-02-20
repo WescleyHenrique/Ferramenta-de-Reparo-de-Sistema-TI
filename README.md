@@ -12,6 +12,7 @@ Ferramenta com interface gráfica moderna (GUI) desenvolvida para agilizar taref
 * **Informações do Sistema:** Roda o `systeminfo` para detalhes de hardware e OS.
 * **Acesso Remoto:** Atalho direto para o MSTSC (RDP) do Windows.
 * **Design Moderno:** Interface escura (Dark Mode) utilizando `CustomTkinter`.
+* **Limpeza Automática e manual:**
 
 ## 🛠️ Tecnologias Utilizadas
 
